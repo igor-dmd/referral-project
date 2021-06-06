@@ -1,0 +1,9 @@
+# The strings used to build the sign up form link
+REFERRAL_PROJECT_HOST: 'referral-project.com'
+SIGN_UP_FORM_PATH: '/sign-up'
+
+# The default sender email to be used in mailing related tasks
+DEFAULT_SENDER_EMAIL: 'no-reply@referral-project.com'
+
+# The password used for the database connection
+DB_PASSWORD: ''
