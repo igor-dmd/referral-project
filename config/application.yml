@@ -5,5 +5,6 @@ SIGN_UP_FORM_PATH: '/sign-up'
 # The default sender email to be used in mailing related tasks
 DEFAULT_SENDER_EMAIL: 'no-reply@referral-project.com'
 
-# The password used for the database connection
+# The credentials used for the database connection
+DB_USERNAME: ''
 DB_PASSWORD: ''
